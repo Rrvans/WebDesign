@@ -1,0 +1,44 @@
+
+
+form {
+    margin: 10% auto;
+    width: 300px;
+    padding: 0 20px 20px 20px;
+    background-color: chartreuse;
+    border: 5px outset gold;
+    box-shadow: 5px 5px 10px black;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    background-image: url(cangkirkopi.jpg);
+    background-size: cover;
+    background-position: 0 -400px;
+}
+
+.Nama {
+    width: 100%;
+}
+
+.email {
+    width: 100%;
+}
+
+.url {
+    width: 100%;
+}
+.button{
+    width: 100%;
+    background-color: rgb(85, 85, 248);
+    color: white;
+    font-weight: bold;
+}
+
+.reset{
+    width: 100%;
+    background-color: rgb(85, 85, 248);
+    color: white;
+    font-weight: bold;
+}
